@@ -55,9 +55,10 @@
 ---
 
 ## ✍🏻 Random Developer Quote:
-
-> "First, solve the problem. Then, write the code."
-                                   — [John Johnson](https://en.wikipedia.org/wiki/John_Johnson_(computer_scientist))
+<p align="center">
+ "First, solve the problem. Then, write the code."
+                                 <p align="center">  — <a href="https://en.wikipedia.org/wiki/John_Johnson_(computer_scientist)" target="_blank">John Johnson</a> </p>
+</p>
 
 
 
