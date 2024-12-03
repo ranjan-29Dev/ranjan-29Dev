@@ -1,6 +1,5 @@
 
-# 👋🏻 Hi, I'm Prem Ranjan
-![Waving hand animation](https://raw.githubusercontent.com/gist/overlaying/wave-hand-animation/wave-hand.gif)  
+# <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="30px"> Hi, I'm Prem Ranjan
 
 ---
 
