@@ -47,6 +47,11 @@
 
 ---
 
+### 🏆 GitHub Profile Trophy:
+[![trophy](https://github-profile-trophy.vercel.app/?username=rj-29&theme=onedark&layout=compact)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
 ## 📊 GitHub Profile Summary Card:
 [![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rj-29&theme=github)](https://github.com/rj-29)
 [![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rj-29&theme=github)](https://github.com/rj-29)
