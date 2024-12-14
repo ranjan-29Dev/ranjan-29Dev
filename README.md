@@ -14,7 +14,6 @@
 ---
 
 ## 🌐 Connect with Me:
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rj-29)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prem-ranjan-)
 [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prem29ranjan@gmail.com)
 ![Profile Views](https://komarev.com/ghpvc/?username=rj-29&color=blue)
