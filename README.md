@@ -52,9 +52,9 @@
 ---
 
 ## 📊 GitHub Profile Summary Card:
-[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rj-29&theme=github)](https://github.com/rj-29)
-[![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rj-29&theme=github)](https://github.com/rj-29)
-[![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rj-29&theme=github)](https://github.com/rj-29)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rj-29&theme=github)](https://github.com/ranjan-29Dev)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rj-29&theme=github)](https://github.com/ranjan-29Dev)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rj-29&theme=github)](https://github.com/ranjan-29Dev)
 
 ---
 
