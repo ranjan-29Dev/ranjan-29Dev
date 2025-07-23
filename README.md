@@ -5,7 +5,7 @@
 
 ## About Me:
 - 👨‍💻 **Pronouns**: He/Him
-- 🌱 I’m currently a sophomore learning about Web Development.
+- 🌱 I’m currently learning about Web Development.
 - 🤝 I’m looking to collaborate on Frontend Projects.
 - 🧑‍🏫 Ask me about Frontend & Backend Development or any related stuff.
 - 📫 **How to reach me**: Check social links below.
@@ -47,8 +47,12 @@
 
 ---
 
-### 🏆 GitHub Profile Trophy:
-[![trophy](https://github-profile-trophy.vercel.app/?username=ranjan-29Dev&theme=onedark&layout=compact)](https://github.com/ryo-ma/github-profile-trophy)
+## Most Used Languages:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ranjan-29Dev&layout=compact&theme=radical)
+
+
+
+
 
 ---
 
