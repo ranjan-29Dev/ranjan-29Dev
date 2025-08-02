@@ -9,7 +9,6 @@
 - 🤝 I’m looking to collaborate on Frontend Projects.
 - 🧑‍🏫 Ask me about Frontend & Backend Development or any related stuff.
 - 📫 **How to reach me**: Check social links below.
-- 🎵 **Fun fact**: I spend almost 12 hours listening to songs every day.
 
 ---
 
