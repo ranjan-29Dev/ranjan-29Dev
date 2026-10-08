@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/GitHub-24292E?style=flat&logo=github&logoColor=white" alt="GitHub" />
   </a>
   &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=ranjan-29Dev&style=flat&label=Profile%20Views&color=0284C7" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=ranjan-29Dev&style=flat&label=Profile%20Views&color=0284C7&base=2587" alt="Profile Views" />
 </p>
 
 ---
